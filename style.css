@@ -227,13 +227,13 @@ body{
 }
 .playlist h5::after{
     content: '';
-    -webkit-mask: url('https://saikokurami.github.io/assets/spotify_42px.png') no-repeat 50% 50%;
+    -webkit-mask: url('assets/icons8-sailor-moon-48.png') no-repeat 50% 50%;
     width: 30px;
     height: 30px;
     left: 260px;
     top: -26px;
     position: absolute;
-    background-color: rgb(var(--sinon-cyan));
+    
 }
 .box .counter{
     display: flex;
